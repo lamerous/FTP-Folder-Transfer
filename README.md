@@ -1,7 +1,7 @@
 # FTP-Folder-Transfer
 Script for transfering folders TO SERVER using FTP
 
-<h1>Installation</h1>
+<h1>Install dependency</h1>
 
 `sudo pacman -S python-colorama`
 for Arch
